@@ -1,0 +1,22 @@
+{
+  "name": "js-collection",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fmarcos83/js-collection",
+  "authors": [
+    "Francisco Marcos <fmarcos83@gmail.com>"
+  ],
+  "description": "library for collection management",
+  "main": "src/Collection.js",
+  "keywords": [
+    "DrikaTux.Collection"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec",
+    "test",
+    "tests"
+  ]
+}
