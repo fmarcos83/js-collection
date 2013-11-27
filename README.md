@@ -4,8 +4,6 @@ A library for managing collections :)
 ## Examples
 #### Instantiating
 ```javascript
-    //collection to 5 seconds in the future
-    //will output the deadline object
     var collection = new Collection;
 ```
 #### Adding elements
